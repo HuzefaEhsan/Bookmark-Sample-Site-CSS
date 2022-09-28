@@ -1,13 +1,11 @@
 # Bookmark-Sample-Site
 https://bookmark-huzefa.netlify.app/
 
-```
 Install dependencies
 
 ```
-npm Install
+npm install -D tailwindcss
 ```
-
 Run Tailwind CLI
 
 ```
